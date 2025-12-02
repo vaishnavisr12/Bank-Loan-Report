@@ -1,5 +1,4 @@
-# Bank-Loan-Report
-Excel
+# Bank-Loan-Report - EXCEL
 
 This project analyzes 38,576 bank loan records to understand borrower behavior, loan distribution, credit grades, and repayment performance. The analysis was performed using Excel and visualized through an interactive Bank Loan Dashboard that highlights key lending insights and portfolio risks.
 Processed financial fields such as Loan Amount, Total Payment, Interest Rate, Annual Income, and Debt-to-Income Ratio (DTI)
